@@ -1,1 +1,11 @@
 # Medical-cost-ML-Model
+
+* The aim of this analysis is to investigate a range of health-related factors and their interconnections to predict individual medical costs billed by health insurance accurately. These factors include aspects such as age, gender, body mass index (BMI), number of children, smoking status, and region. This comprehensive examination will not only provide insights into the patterns and trends in health insurance charges but will also create a solid base for further research. Specifically, research can be built on how these variables interact and influence the cost of health insurance, crucial knowledge for improving insurance policy design and outcomes in this increasingly critical area of healthcare
+
+* This project employs a comprehensive machine learning approach to predict individual medical costs using a diverse health insurance beneficiaries dataset from the United States. The dataset comprises demographic and health-related variables including age, gender, Body Mass Index (BMI), number of dependents, smoking status, and residential region. A robust Gradient Boosting Regressor model is developed and fine-tuned to accurately predict medical charges from these features.
+
+* K-means clustering is also performed to identify distinct groups within the beneficiaries, providing a deeper understanding of the dataset and revealing potential patterns in medical charges. These clusters could also inform more tailored prediction models or interventions in the future.
+
+* This project employs a comprehensive machine learning approach to predict individual medical costs using a diverse health insurance beneficiaries dataset from the United States. The dataset comprises demographic and health-related variables including age, gender, Body Mass Index (BMI), number of dependents, smoking status, and residential region. A robust Linear Regressor model, Gradient Boost Regressor is developed and fine-tuned to accurately predict medical charges from these features.
+
+The project incorporates an medical charges extensive exploratory data analysis (EDA) to understand the data structure, relationships between variables, and preliminary insights about the factors influencing medical charges.
